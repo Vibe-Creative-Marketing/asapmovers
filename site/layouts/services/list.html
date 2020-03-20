@@ -1,0 +1,39 @@
+{{ define "main" }}
+
+{{ partial "jumbotron" (dict "imageUrl" "/img/blog-index.jpg" "title" "Services") }}
+
+{{ with .Params.main }}
+
+<div class="mw6 ph3 mb3 pa2 center">
+    <h3 class="f3 b lh-title mb2 tc">{{ .heading }}</h3>
+    <p>{{ .description }}</p>
+</div>
+
+
+
+{{ end }}
+
+<div class="pb4">
+  <h1 class="f3 b tc mb2 lh-title">What our customers are saying</h1>
+  {{ range .Params.testimonials }}
+    {{ partial "blockquote" . }}
+  {{ end }}
+</div>
+
+<div class="mw7 center">
+  <h1 class="f3 b tc mb2 lh-title" >Our expertise</h1>
+  <ul class="flex-ns flex-wrap mhn1-ns pa3">
+      {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
+          <div class="w-50-ns ph1-ns flex">
+            {{ .Render "li"}}
+          </div>
+      {{ end }}
+  </ul>
+  {{ partial "pagination" . }}
+</div>
+<div class="tc mb2">
+  <a href="/contact" class="btn raise">Contact us today!</a>
+</div>
+
+
+{{end}}
