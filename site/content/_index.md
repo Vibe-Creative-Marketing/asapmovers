@@ -1,6 +1,6 @@
 ---
 title: "ASAP Movers"
-subtitle: Woman OWNED and Operated
+subtitle: Women OWNED and Operated
 image: https://assets.asapmovers808.com/unpacking-box-dog-1440.jpg
 blurb:
     heading: Why ASAP Movers?
