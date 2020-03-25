@@ -1,20 +1,28 @@
 ---
 title: "ASAP Movers"
 subtitle: Woman OWNED and Operated
-image: /img/home-jumbotron.jpg
+image: https://assets.asapmovers808.com/unpacking-box-dog-1440.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why ASAP Movers?
+    text: "Big or small, we move it all."
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
-products:
-    - image: img/illustrations-coffee.svg
+    heading: Why ASAP Movers?
+    text: 
+services:
+    - image: https://assets.asapmovers808.com/rosie-the-riveter-icon-417x417.png
+      heading: Women owned and operated
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
+      link: "/about"
+      button: Read more about us
+    - image: https://assets.asapmovers808.com/container-truck-icon-417x417.png
+      heading: Big or small, we move it all!
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
-values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+      link: "/services"
+      button: See our services
+    - image: https://assets.asapmovers808.com/5-stars-icon-417x417.png
+      heading: Don't take our word for it
+      text: Check out our reviews on yelp.
+      link: "https://www.yelp.com/biz/asap-moving-waipahu"
+      button: Check out our Yelp page
 ---
 
