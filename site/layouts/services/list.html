@@ -13,7 +13,7 @@
 
 
 <div class="mw7 ma3 center">
-  <h1 class="f3 b tc mb2 lh-title" >Our expertise</h1>
+  <h1 class="f3 b tc mb2 lh-title black bg-highlight w5-ns center" >Our expertise</h1>
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
           <div class="w-50-ns ph1-ns flex">
@@ -25,7 +25,7 @@
 </div>
 
 <div class="pb4">
-  <h1 class="f3 b tc mb2 lh-title">What our customers are saying</h1>
+  <h1 class="f3 b tc mb2 lh-title black bg-highlight w5-ns center">What our customers are saying</h1>
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}
