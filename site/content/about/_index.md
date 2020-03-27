@@ -9,7 +9,7 @@ about:
   - heading: "Experianced"
     text: >
       urna duis convallis convallis tellus id interdum velit laoreet id donec ultrices tincidunt arcu non sodales neque sodales ut etiam sit amet nisl purus in mollis nunc sed id semper
-    imageUrl: "/img/about-single-origin.jpg"
+    imageUrl: "https://assets.asapmovers808.com/storage-pod-3.2-700.jpg"
   - heading: "Reliable"
     text: >
       arcu cursus euismod quis viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat sed cras ornare arcu dui vivamus arcu felis bibendum ut tristique et egestas quis ipsum suspendisse
