@@ -1,6 +1,6 @@
 {{ define "main" }}
-
-{{ partial "jumbotron" (dict "imageUrl" "https://assets.asapmovers808.com/shipping-container-bw-1440-cropped.jpg" "title" "Services") }}
+<!--Services page-->
+{{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 {{ with .Params.main }}
 
@@ -23,9 +23,8 @@
   </ul>
 
 </div>
-
-<div class="pb4">
-  <h1 class="f3 b tc mb2 lh-title black bg-highlight w5-ns center">What our customers are saying</h1>
+<h1 class="f3 b tc mb2 lh-title black bg-highlight mw6 center">What our customers are saying</h1>
+<div class="flex-l ma3 center w-80-l">
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}

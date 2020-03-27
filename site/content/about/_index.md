@@ -13,5 +13,5 @@ about:
   - heading: "Reliable"
     text: >
       arcu cursus euismod quis viverra nibh cras pulvinar mattis nunc sed blandit libero volutpat sed cras ornare arcu dui vivamus arcu felis bibendum ut tristique et egestas quis ipsum suspendisse
-    imageUrl: "/img/about-sustainable-farming.jpg"
+    imageUrl: "https://assets.asapmovers808.com/woman-holding-box-700.jpg"
 ---
