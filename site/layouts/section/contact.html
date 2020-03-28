@@ -9,9 +9,9 @@
 
 		<div class="flex-ns mw6 center mb3">
 	        	{{ range .Params.contact_entries }}
-				<div class="w-50-l">
+				<div class="w-50-l mt3">
 					<h4 class="f4 b lh-title mb2 black bg-highlight mw4 tc center">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
+					<p>{{ .text | safeHTML }}</p>
 				</div>
 			{{ end }}
 		</div>

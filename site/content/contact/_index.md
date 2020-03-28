@@ -3,17 +3,13 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "94-207 Waipahu St   
-    #135   
-    HI, 96797"
+    text: "94-207 Waipahu St<br>#135<br>Waipahu HI, 96797"
   - heading: Hours
-    text: "Monday – Saturday:  
-    9AM – 7PM   
-    closed on Sundays"
+    text: "Monday – Saturday<br>8AM – 6PM<br>Closed on Sundays"
 ---
 
-We’d love to get in touch with you!
+Looking for moving quotes? Someone to take the load off? Look no further!
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-Please use the form below for any inquiries.  We'll get back to you as soon as possible!
+We understand that making the decision to relocate carried a lot of weight. We’re here to take on some of the burden. ASAP Movers 808 provides an affordable and easy moving experience – packing, shipping, storage, residential, commercial...we do it all! The hardest part is over, let us take it from here. Contact us today to get your cost of moving.

@@ -11,9 +11,25 @@
 
 {{ end }}
 
+{{ range .Params.services}}
+<h1 class="f3 b tc mb2 lh-title black bg-highlight w5-ns center mb3" >{{ .heading }}</h1>{{ end }}
 
-<div class="mw7 ma3 center">
-  <h1 class="f3 b tc mb2 lh-title black bg-highlight w5-ns center" >Our expertise</h1>
+<div class="w-60-l center ph3-ns mb4-ns mr5-l">
+  <div class="flex-ns center">
+    <div class="pa2 mw7 bg-grey-1 center f5 mb2 mb0-ns">
+      <p>{{ .Content }}</p>
+    </div>
+    <div class="mw5 pa2 pl4 bg-highlight center f5 mb4 mb0-ns">
+      <h3 class="b black">Our Services</h3>
+      <ul class="list">{{ .Params.list | safeHTML }}</ul>
+    </div>
+  </div>
+</div>
+
+
+
+<div class="mw7 mh3 mb3-ns center">
+  <h1 class="f3 b tc mb2 lh-title black bg-highlight mw5 center" >Read More About...</h1>
   <ul class="flex-ns flex-wrap mhn1-ns pa3">
       {{ range (.Paginator 4).Pages.ByPublishDate.Reverse }}
           <div class="w-50-ns ph1-ns flex">
@@ -23,8 +39,8 @@
   </ul>
 
 </div>
-<h1 class="f3 b tc mb2 lh-title black bg-highlight mw6 center">What our customers are saying</h1>
-<div class="flex-l ma3 center w-80-l">
+<h1 class="f3 b tc mb2 lh-title black bg-highlight mw6 center">What Our Customers Are Saying</h1>
+<div class="flex-l mb3-ns center w-75-l">
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}
