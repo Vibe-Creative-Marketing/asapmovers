@@ -3,23 +3,20 @@
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 {{ with .Params.main }}
-
-<div class="mw6 ph3 ma3 pa2 center">
-    <h3 class="f3 b lh-title mb2 tc">{{ .heading }}</h3>
-    <p>{{ .description }}</p>
+{{ end }}
+{{ range .Params.services}}
+<div class="w-70-l pa2 mb7 z-999 center absolute pr4-l">
+  <h1 class="f3 b tc lh-title black bg-highlight w5-ns center" >{{ .heading }}</h1>{{ end }}
 </div>
 
-{{ end }}
-
-{{ range .Params.services}}
-<h1 class="f3 b tc mb2 lh-title black bg-highlight w5-ns center mb3" >{{ .heading }}</h1>{{ end }}
-
-<div class="w-60-l center ph3-ns mb4-ns mr5-l">
+<div class="mw7 center ph3-ns mb4-ns mr5-l relative pt3">
+  
   <div class="flex-ns center">
-    <div class="pa2 mw7 bg-grey-1 center f5 mb2 mb0-ns">
+    
+    <div class="pa3 bg-grey-1 center f5 ma2 mb0-ns">
       <p>{{ .Content }}</p>
     </div>
-    <div class="mw5 pa2 pl4 bg-highlight center f5 mb4 mb0-ns">
+    <div class="pa3 pl4 bg-highlight f5 mb4 mb0-ns ma2">
       <h3 class="b black">Our Services</h3>
       <ul class="list">{{ .Params.list | safeHTML }}</ul>
     </div>
@@ -40,7 +37,7 @@
 
 </div>
 <h1 class="f3 b tc mb2 lh-title black bg-highlight mw6 center">What Our Customers Are Saying</h1>
-<div class="flex-l mb3-ns center w-75-l">
+<div class="mb3-ns center mw6">
   {{ range .Params.testimonials }}
     {{ partial "blockquote" . }}
   {{ end }}
