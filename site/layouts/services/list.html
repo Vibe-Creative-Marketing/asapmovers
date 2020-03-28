@@ -5,8 +5,11 @@
 {{ with .Params.main }}
 {{ end }}
 {{ range .Params.services}}
-<div class="w-70-l pa2 mb7 z-999 center absolute pr4-l">
-  <h1 class="f3 b tc lh-title black bg-highlight w5-ns center" >{{ .heading }}</h1>{{ end }}
+
+<div class="mw7 center">
+  <div class="pa2 mb7 z-999 center absolute">
+    <h1 class="f3 b tc lh-title black bg-highlight w5-ns center" >{{ .heading }}</h1>{{ end }}
+  </div>
 </div>
 
 <div class="mw7 center ph3-ns mb4-ns mr5-l relative pt3">
