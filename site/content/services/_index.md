@@ -1,6 +1,6 @@
 ---
 title: Our services
-image: https://assets.asapmovers808.com/shipping-container-bw-1440-cropped.jpg
+image: https://assets.asapmovers808.com/shipping-containers-by-ocean-1440.jpg
 testimonials:
   - author: "Erica M"
     quote: >
@@ -13,11 +13,11 @@ services:
 list: "<li>Commercial Services</li><li>Furniture Moving</li><li>Large and Heavy Item Moving</li><li>Long Distance Moving</li><li>Packing, Unpacking, & Crating</li><li>Senior Moving</li><li>Furniture Assembly</li><li>International Relocations</li><li>Local Moving</li><li>Moving Container Rentals</li><li>
 Piano Moving</li><li>Storage Services</li>"
 ---      
-Where in the world is life taking you next? No matter the distance, if you’re headed off to college, changing your office backdrop, or need a new place to call home, ASAP Movers 808 is the moving company you’ve been searching for.
+Where in the world is life taking you next? No matter the distance, if you’re headed off to college, changing your office backdrop, or need a new place to call home, ASAP Movers 808 is the moving company you’ve been searching for.  
 
-Based out of Hawaii, we’re ready to move you to, from, or between the islands.We specialize in long-distance moving as well as local service moving, and offer expertise in commercial moving and residential moving. 
+Based out of Hawaii, we’re ready to move you to, from, or between the islands. We specialize in long-distance moving as well as local service moving, and offer expertise in commercial moving and residential moving.   
 
-Our strength is in getting your belongings wherever they need to go. With ASAP Movers 808, enjoy a smooth and seamless moving experience so you can focus on life ahead. 
+Our strength is in getting your belongings wherever they need to go. With ASAP Movers 808, enjoy a smooth and seamless moving experience so you can focus on life ahead.   
 
 Read more about our service expertise and [contact us today](/contact).
 

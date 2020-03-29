@@ -1,9 +1,9 @@
 ---
 title: "Moving from Hawaii"
-date:
+date: 2020-03-27
 description: >-
   ASAP Movers can help your relocate from Hawaii to anywhere in the mainland.
-image: https://assets.asapmovers808.com/packing-pallet-1440.jpg
+image: https://assets.asapmovers808.com/storage-pod-3.2-700.jpg
 ---
 We’re sad to hear you’re leaving Hawaii. But no matter where life is taking you, ASAP Movers 808 will move you there!
 
