@@ -1,45 +1,17 @@
 ---
 title: "Who we are"
-image: /img/about-jumbotron.jpg
-values:
-  - heading: "Shade-grown coffee"
+image: https://assets.asapmovers808.com/shipping-container-bw-1440-cropped.jpg
+about:
+  - heading: "Who moves the world? Girls!"
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
-  - heading: "Single origin"
+      ASAP Movers 808 is a female-owned business based in Hawaii since 2020. While our small business may be the new kid on the block, we have years of moving experience and a passion for getting your belongings where they need to be.  
+    imageUrl: "https://assets.asapmovers808.com/woman-packing-box-700.jpg"
+  - heading: "Trust Worthy and Responsive Service"
     text: >
-      Single-origin coffee is coffee grown within a single known
-      geographic origin. Sometimes, this is a single farm or a
-      specific collection of beans from a single country. The name of
-      the coffee is then usually the place it was grown to whatever
-      degree available.
-    imageUrl: "/img/about-single-origin.jpg"
-  - heading: "Sustainable farming"
+      Quality customer service is a core value at ASAP Movers 808. We truly believe that, without happy customers, a business can’t thrive. Give us a chance and – with responsive service, trustworthy moving teams, and speedy transportation – we promise we’ll earn your business...ASAP!
+    imageUrl: "https://assets.asapmovers808.com/aloha-beach-horizontal-1280.jpg"
+  - heading: "You’re First on Our Packing List"
     text: >
-      Sustainable agriculture is farming in sustainable ways based on
-      an understanding of ecosystem services, the study of
-      relationships between organisms and their environment. What
-      grows where and how it is grown are a matter of choice and
-      careful consideration for nature and communities.
-    imageUrl: "/img/about-sustainable-farming.jpg"
-  - heading: "Direct sourcing"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-direct-sourcing.jpg"
-  - heading: "Reinvest profits"
-    text: >
-      We want to truly empower the communities that bring amazing
-      coffee to you. That’s why we reinvest 20% of our profits into
-      farms, local businesses and schools everywhere our coffee is
-      grown. You can see the communities grow and learn more about
-      coffee farming on our blog.
-    imageUrl: "/img/about-reinvest-profits.jpg"
+      If you’d like a moving quote, get in touch with us. We'll get back to you as soon as possible!
+    imageUrl: "https://assets.asapmovers808.com/woman-holding-box-700.jpg"
 ---

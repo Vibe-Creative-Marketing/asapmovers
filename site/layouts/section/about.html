@@ -4,7 +4,7 @@
 
 <div class="mw7 center ph3 pt4">
 
-  {{ range $index, $element := .Params.values }}
+  {{ range $index, $element := .Params.about }}
     {{ if modBool $index 2 }}
       {{ partial "media-block" $element }}
     {{ else }}
@@ -14,4 +14,7 @@
 
 </div>
 
+<div class="mb3 center mw5 tc">
+  <a class="btn raise" href="/contact">Contact us today!</a>
+</div>
 {{ end }}

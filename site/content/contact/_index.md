@@ -3,17 +3,13 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+    text: "94-207 Waipahu St<br>#135<br>Waipahu HI, 96797"
+  - heading: Hours
+    text: "Monday – Saturday<br>8AM – 6PM<br>Closed on Sundays"
 ---
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
+Looking for moving quotes? Someone to take the load off? Look no further!
 
 <h3 class="f4 b lh-title mb2">How can I get…?</h3>
 
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+We understand that making the decision to relocate carried a lot of weight. We’re here to take on some of the burden. ASAP Movers 808 provides an affordable and easy moving experience – packing, shipping, storage, residential, commercial...we do it all! The hardest part is over, let us take it from here. Contact us today to get your cost of moving.

@@ -1,14 +1,18 @@
-<div class="bg-off-white pv4 center">
-  <div class="ph3 mw7 center">
-    <h2 class="f2 b lh-title mb2-ns tc primary">{{.intro.heading}}</h2>
+<div class="ph3 pt4-ns o-100 fl w-100 center absolute z-999">
+  <h2 class="center mw6 f2 b lh-title tc black bg-highlight">{{.intro.heading}}</h2>
+</div>
 
-    <div class="flex-ns mhn2-ns mb3">
+<div class="bg-off-white pv4 center">
+
+
+    <div class="w-80-l bg-grey-1 center pb5 pb4-l mt3-ns">
+    <div class="flex-l mw7 center mhn2-s mb3">
       {{ range .services }}
-      <div class="ph2-ns w-50-ns">
-        <img src="{{.image}}" alt="" class="center db mb3" style="width: 300px">
-        <h3 class="f4 b lh-title mb2 l highlight">{{ .heading }}</h3>
-        <p>{{.text}}</p>
-        <div class="tc ph4-ns mh2-ns mb3-ns">
+      <div class="ph4-ns mt4-l relative">
+        <img src="{{.image}}" alt="" class="db mb3 mt4 pt2-l center" style="width: 300px">
+        <h3 class="f4 b lh-title mb2 l black bg-highlight mw7">{{ .heading }}</h3>
+        <p class="pb2-l mb6-l">{{.text}}</p>
+        <div class="mb2-ns bottom-0-l absolute mw4 ">
           <a href="{{ .link }}" class="btn raise">{{ .button }}</a>
         </div>
       </div>
