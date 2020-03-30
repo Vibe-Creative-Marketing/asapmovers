@@ -1,5 +1,5 @@
 ---
-title: Our services
+title: Our Services
 image: https://assets.asapmovers808.com/shipping-containers-by-ocean-1440.jpg
 testimonials:
   - author: "Erica M"
