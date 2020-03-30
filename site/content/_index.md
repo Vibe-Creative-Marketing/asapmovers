@@ -1,6 +1,7 @@
 ---
-title: ASAP Movers<br>808
+title: "Home"
 titlelarge: "ASAP Movers 808"
+titlesmall: ASAP Movers<br>808
 subtitle: Women OWNED and Operated
 image: https://assets.asapmovers808.com/unpacking-box-dog-1440.jpg
 intro:
