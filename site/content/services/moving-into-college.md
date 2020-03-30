@@ -1,7 +1,7 @@
 ---
 title: "Moving to or from UH"
 date: 2020-03-27
-description: ASAP Movers can move you in and out of university housing.
+description: ASAP Movers 808 can move you in and out of university housing.
 image: https://assets.asapmovers808.com/college-student-unpacking-700.jpg
 schema: Moving into College
 ---
@@ -9,7 +9,7 @@ schema: Moving into College
 
 A) Packing up your college dorm  
 B) Moving all your belongings  
-C) Figuring out the logistics of how to pack and move
+C) Figuring out the logistics of how to pack and move  
 {{< rawhtml >}}
 <ins class="bg-highlight no-underline">D) All of the above</ins>
 {{< /rawhtml >}}   

@@ -2,7 +2,7 @@
 title: "Moving to Hawaii"
 date: 2020-03-27
 description: >-
-  ASAP Movers can help you move to Hawaii from anywhere on the mainland.
+  ASAP Movers 808 can help you move to Hawaii from anywhere on the mainland.
 image: https://assets.asapmovers808.com/hawaii-waikiki-beach-700.jpg
 ---
 Congratulations, you’re moving to Hawaii!
