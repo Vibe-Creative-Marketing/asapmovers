@@ -3,7 +3,7 @@ title: "Contact"
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
-    text: "94-207 Waipahu St<br>#135<br>Waipahu HI, 96797"
+    text: "94-207 Waipahu St<br>#135<br>Waipahu HI<br>96797"
   - heading: Hours
     text: "Monday – Saturday<br>8AM – 6PM<br>Closed on Sundays"
 ---
