@@ -1,8 +1,8 @@
 ---
-title: "Who we are"
+title: "Who We Are"
 image: https://assets.asapmovers808.com/shipping-container-bw-1440-cropped.jpg
 about:
-  - heading: "Who moves the world? Girls!"
+  - heading: "Who Moves the World? Girls!"
     text: >
       ASAP Movers 808 is a female-owned business based in Hawaii since 2020. While our small business may be the new kid on the block, we have years of moving experience and a passion for getting your belongings where they need to be.  
     imageUrl: "https://assets.asapmovers808.com/woman-packing-box-700.jpg"

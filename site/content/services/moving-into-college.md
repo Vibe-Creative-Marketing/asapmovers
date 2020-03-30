@@ -9,8 +9,10 @@ schema: Moving into College
 
 A) Packing up your college dorm  
 B) Moving all your belongings  
-C) Figuring out the logistics of how to pack and move  
-D) All of the above   
+C) Figuring out the logistics of how to pack and move
+{{< rawhtml >}}
+<ins class="bg-highlight no-underline">D) All of the above</ins>
+{{< /rawhtml >}}   
 
 If you’re moving in or out of your college dorm or apartment, we know the dread is worse than prepping for that History 101 presentation that’s worth half of your grade. Except, you can’t cram this into an all nighter.
 
