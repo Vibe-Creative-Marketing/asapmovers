@@ -4,8 +4,8 @@ titlelarge: "ASAP Movers 808"
 titlesmall: ASAP Movers<br>808
 subtitle: Women OWNED and Operated
 images: https://vibecdnv.azureedge.net/asapmovers808/unpacking-box-dog-450.jpg
-imagem: https://vibecdnv.azureedge.net/asapmovers808/unpacking-box-dog-700.jpg
-imagel: https://vibecdnv.azureedge.net/asapmovers808/unpacking-box-dog-1440.jpg
+imagem: https://vibecdnv.azureedge.net/asapmovers808/unpacking-box-dog-1440.jpg
+imagel: https://vibecdnv.azureedge.net/asapmovers808/unpacking-box-dog-1920.jpg
 webp: https://vibecdnv.azureedge.net/asapmovers808/unpacking-box-dog-1440.webp
 imagedesc: Unpacking box dog
 

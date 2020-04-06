@@ -1,8 +1,8 @@
 ---
 title: "Who We Are"
-image: https://vibecdnv.azureedge.net/asapmovers808/shipping-container-bw-1440-cropped.jpg
+image: https://vibecdnv.azureedge.net/asapmovers808/shipping-container-bw-1920-cropped.jpg
 images: https://vibecdnv.azureedge.net/asapmovers808/shipping-container-bw-450-cropped.jpg
-imagem: https://vibecdnv.azureedge.net/asapmovers808/shipping-container-bw-700-cropped.jpg
+imagem: https://vibecdnv.azureedge.net/asapmovers808/shipping-container-bw-1440-cropped.jpg
 webp: https://vibecdnv.azureedge.net/asapmovers808/shipping-container-bw-1440-cropped.webp
 about:
   - heading: "Who Moves the World? Girls!"
