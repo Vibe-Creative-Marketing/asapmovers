@@ -4,7 +4,12 @@
     <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
     <div class="cms mw6">
       <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+      {{ if .Params.image }}
+      <picture>
+          <source srcset="{{ .Params.webp }}" type="image/webp">
+          <source src="{{ .Params.image }}" type="image/jpeg">
+      <img src="{{ .Params.image }}" alt="{{ .Title }}" />
+    </picture>{{ end }}
       {{ .Content }}
     </div>
   </div>

@@ -1,7 +1,11 @@
 <div class="flex-m mhn3-m mb4">
 
   <div class="ph3-m w-50-m">
-    <img src="{{.imageUrl}}" alt="" class="db mb2">
+    <picture>
+      <source srcset="{{.webpUrl}}" type="image/webp">
+      <source srcset="{{.imageUrl}}" type="image/jpeg">
+      <img src="{{.imageUrl}}" alt="" class="db mb2" loading="lazy">
+    </picture>
   </div>
 
   <div class="ph3-m w-50-m">

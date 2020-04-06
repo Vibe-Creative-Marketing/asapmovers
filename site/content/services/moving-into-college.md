@@ -3,6 +3,7 @@ title: "Moving to or from UH"
 date: 2020-03-27
 description: ASAP Movers 808 can move you in and out of university housing.
 image: https://vibecdnv.azureedge.net/asapmovers808/college-student-unpacking-700.jpg
+webp: https://vibecdnv.azureedge.net/asapmovers808/college-student-unpacking-700.webp
 schema: Moving into College
 ---
 #### What’s worse than finals? 

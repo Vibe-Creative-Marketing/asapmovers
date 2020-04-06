@@ -4,6 +4,7 @@ date: 2020-03-27
 description: >-
   ASAP Movers 808 can help you move interisland
 image: https://vibecdnv.azureedge.net/asapmovers808/na-pali-coast-700.jpg
+webp: https://vibecdnv.azureedge.net/asapmovers808/na-pali-coast-700.webp
 schema: Interisland moving Hawaii
 ---
 Island hopping is easy...until you have to bring all of your belongings. 

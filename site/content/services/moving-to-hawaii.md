@@ -4,6 +4,7 @@ date: 2020-03-27
 description: >-
   ASAP Movers 808 can help you move to Hawaii from anywhere on the mainland.
 image: https://vibecdnv.azureedge.net/asapmovers808/hawaii-waikiki-beach-700.jpg
+webp: https://vibecdnv.azureedge.net/asapmovers808/hawaii-waikiki-beach-700.webp
 ---
 Congratulations, you’re moving to Hawaii!
 
