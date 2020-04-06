@@ -1,6 +1,6 @@
 {{ define "main" }}
 
-{{ partial "jumbotron-home" (dict "imageUrl" .Params.image "title" .Title "titlelarge" .Params.titlelarge "subtitle" .Params.subtitle "titlesmall" .Params.titlesmall) }}
+{{ partial "jumbotron-home" (dict "images" .Params.images "imagem" .Params.imagem "imagel" .Params.imagel "imagedesc" .Params.imagedesc "title" .Title "titlelarge" .Params.titlelarge "subtitle" .Params.subtitle "titlesmall" .Params.titlesmall) }}
 
 {{ partial "3-up" .Params }}
 
