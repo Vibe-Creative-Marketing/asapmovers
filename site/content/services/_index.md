@@ -1,8 +1,8 @@
 ---
 title: Our Services
-image: https://vibecdnv.azureedge.net/asapmovers808/shipping-containers-by-ocean-1440.jpg
+image: https://vibecdnv.azureedge.net/asapmovers808/shipping-containers-by-ocean-1920.jpg
 images: https://vibecdnv.azureedge.net/asapmovers808/shipping-containers-by-ocean-450.jpg
-imagem: https://vibecdnv.azureedge.net/asapmovers808/shipping-containers-by-ocean-700.jpg
+imagem: https://vibecdnv.azureedge.net/asapmovers808/shipping-containers-by-ocean-1440.jpg
 webp: https://vibecdnv.azureedge.net/asapmovers808/shipping-containers-by-ocean-1440.webp
 testimonials:
   - author: "Erica M"
