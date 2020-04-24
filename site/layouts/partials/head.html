@@ -29,8 +29,23 @@
 	<meta property="og:image" content="https://vibecdnv.azureedge.net/asapmovers808/rosie-preview-icon-417.jpg" />
 	<meta property="og:image:secure_url" content="https://vibecdnv.azureedge.net/asapmovers808/rosie-preview-icon-417.jpg" />
 	<meta property="og:description" content="Moving and shipping company in Hawaii" />
+	<meta property="business:contact_data:street_address" content="94-207 Waipahu St #135">
+    <meta property="business:contact_data:locality" content="Waipahu">
+    <meta property="business:contact_data:region" content="Hawaii">
+    <meta property="business:contact_data:postal_code" content="96797">
+    <meta property="business:contact_data:country_name" content="United States">
 
+	
+	<!-- Event snippet for Page view conversion page -->
   {{ if .IsHome }}
-    <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  <script>
+	gtag('event', 'conversion', {'send_to': 'AW-664285269/LG8dCPnji84BENXg4LwC'});
+  </script>
+  {{ end }}
+
+  {{ if eq .Section "services" }}
+  <script>
+	gtag('event', 'conversion', {'send_to': 'AW-664285269/LG8dCPnji84BENXg4LwC'});
+  </script>
   {{ end }}
 </head>
