@@ -10,7 +10,7 @@ webp: https://vibecdnv.azureedge.net/asapmovers808/unpacking-box-dog-1440.webp
 imagedesc: Unpacking box dog
 
 intro:
-    heading: Big or small, we move it all!
+    heading: "FREE Contactless Estimates" 
     text: 
 services:
     - image: https://vibecdnv.azureedge.net/asapmovers808/rosie-the-riveter-icon-417x417.png
@@ -21,7 +21,7 @@ services:
       button: Get a Quote ASAP
     - image: https://vibecdnv.azureedge.net/asapmovers808/container-truck-icon-417x417.png
       webp: https://vibecdnv.azureedge.net/asapmovers808/container-truck-icon-417x417.webp
-      heading: Pack, Move, Ship Anywhere
+      heading: "Local and Mainland Moving" 
       text: "Wherever life is taking you, ASAP Movers 808 is your relocation company. We’ll pack your belongings and ship them where they need to be so you can focus on the important things."
       link: "/services"
       button: See Our Services
