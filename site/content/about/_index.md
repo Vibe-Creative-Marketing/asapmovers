@@ -1,5 +1,6 @@
 ---
 title: "Who We Are"
+description: ASAP Movers 808 is a Hawaii based moving company that is Women owned and operated! Hire us for your next move.
 image: https://vibecdnv.azureedge.net/asapmovers808/shipping-container-bw-1920-cropped.jpg
 images: https://vibecdnv.azureedge.net/asapmovers808/shipping-container-bw-450-cropped.jpg
 imagem: https://vibecdnv.azureedge.net/asapmovers808/shipping-container-bw-1440-cropped.jpg

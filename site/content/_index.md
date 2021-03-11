@@ -1,5 +1,6 @@
 ---
 title: "Home"
+description: "ASAP Movers 808 is a Women owned and opperated, Hawaii based moving company."
 titlelarge: "ASAP Movers 808"
 titlesmall: ASAP Movers<br>808
 subtitle: Women OWNED and Operated

@@ -1,5 +1,6 @@
 ---
 title: "Contact"
+decription: Looking for a moving quote? Contact ASAP Movers 808 Today!
 logo: "/img/logo.svg"
 contact_entries:
   - heading: Location
