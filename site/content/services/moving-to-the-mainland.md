@@ -1,5 +1,6 @@
 ---
 title: "Moving from Hawaii"
+description: Moving from Hawaii to the mainland? ASAP Movers 808 has you covered.  We'll do the heavy lifting, so you don't have to.
 date: 2020-03-27
 description: >-
   ASAP Movers 808 can help your relocate from Hawaii to anywhere in the mainland.
