@@ -1,0 +1,14 @@
+.privacy-policy {
+  h2 {
+    font-size: 1.5rem;
+    font-weight: 700;
+  }
+  p {
+    max-width: 64rem;
+  }
+  ul {
+    margin: 1.5rem;
+    list-style-type: disc;
+  }
+
+}

@@ -2,26 +2,25 @@
 title: Privacy Policy
 description: How We Collect and Use Your Data
 ---
-# Privacy Policy
 This privacy policy ("policy") will help you to understand how ASAP Movers 808 ("us", "we", "our") uses and protects the data you provide to is when you visit and use asapmovers808.com ("website", "service").
 
 We reserve the right to change this policy at any time, of which you will be promptly updated. If you wat to make sure that you are up to date the latest changes, we advise you to frequently visit this page.
 
 ## What User Data We Collect
 When you vist our website, we may collect the following data:
-* Your IP address.
-* Your full name, contact information, postal address, email address.
-* Other information such as interests and preferences.
-* Data profile regarding your online behaviour on our website.
+- Your IP address.
+- Your full name, contact information, postal address, email address.
+- Other information such as interests and preferences.
+- Data profile regarding your online behaviour on our website.
 
 ## Why We Collect Your Data
 We are collecting your data for several reasons:
-* To better understand your needs.
-* To improve our services and products.
-* To send you promotional emails containing the information we think you will find intersting.
-* To contact you.
-* To customize our website according to your online behavior and personal preferances.
-* To improve our online advertising.
+- To better understand your needs.
+- To improve our services and products.
+- To send you promotional emails containing the information we think you will find intersting.
+- To contact you.
+- To customize our website according to your online behavior and personal preferances.
+- To improve our online advertising.
 
 ## Safeguarding and Securing Data
 

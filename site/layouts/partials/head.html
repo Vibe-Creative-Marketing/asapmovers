@@ -3,10 +3,8 @@
   <title>{{ .Title }} | {{ $.Site.Title }}</title>
   <meta name="description" content="{{ .Description }}">
 
-  {{ $stylesheet := .Site.Data.webpack.main }}
-  {{ with $stylesheet.css }}
-    <link href="{{ relURL . }}" rel="stylesheet">
-  {{ end }}
+  {{ $stylesheet := resources.Get "css/main.css" | resources.ToCSS | minify }}
+    <link href="{{ $stylesheet.Permalink }}" rel="stylesheet">
 
 	<meta charset="utf-8">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
