@@ -7,7 +7,12 @@
     list-style-type: disc;
 }
 @media (--breakpoint-large) {
-.height-44 {
-  height: 44rem;
+  .height-44 {
+    height: 44rem;
+  }
 }
+@media (--breakpoint-not-small) {
+  .width-38 {
+    width: 38rem;
+  }
 }

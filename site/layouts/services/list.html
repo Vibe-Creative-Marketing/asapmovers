@@ -14,12 +14,12 @@
 
 <div class="mw7 center ph3-ns mb4-ns mr5-l relative pt3">
   
-  <div class="flex-ns center">
+  <div class="flex-ns">
     
-    <div class="pa3 bg-grey-1 center f5 ma2 mb0-ns">
-      <p>{{ .Content }}</p>
+    <div class="pa3 bg-grey-1 center f5 mb0 ma2 width-38">
+      <p class="mw6">{{ .Content }}</p>
     </div>
-    <div class="pa3 pl4 bg-highlight f5 mb4 mb0-ns ma2">
+    <div class="pa3 pl4 bg-highlight f5 mb4 mb0-ns ma0 mt2-ns center w-50-ns">
       <h3 class="b black">Our Services</h3>
       <ul class="list">{{ .Params.list | safeHTML }}</ul>
     </div>
