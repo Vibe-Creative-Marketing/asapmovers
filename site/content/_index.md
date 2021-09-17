@@ -1,8 +1,8 @@
 ---
 title: "Home"
-description: "ASAP Movers 808 is a Women owned and opperated, Hawaii based moving company."
-titlelarge: "ASAP Movers 808"
-titlesmall: ASAP Movers<br>808
+description: "Hawaii and Alabama based moving company"
+titlelarge: "ASAP Movers 808<br>Hawaii, Alabama, & Beyond"
+titlesmall: ASAP Movers 808<br>Hawaii, Alabama, & Beyond
 subtitle: Women OWNED and Operated
 images: https://vibecdnv.azureedge.net/asapmovers808/unpacking-box-dog-450.jpg
 imagem: https://vibecdnv.azureedge.net/asapmovers808/unpacking-box-dog-1440.jpg

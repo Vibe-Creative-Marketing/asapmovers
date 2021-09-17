@@ -1,6 +1,6 @@
 ---
 title: Our Services
-description: Moving to Hawaii, on Oahu, or between neighbor islands? ASAP Movers 808 is here to help you with your move, big or small we do it all!
+description: ASAP Movers 808 is here to help you with your move in Hawaii and Alabama, big or small we do it all!
 image: https://vibecdnv.azureedge.net/asapmovers808/shipping-containers-by-ocean-1920.jpg
 images: https://vibecdnv.azureedge.net/asapmovers808/shipping-containers-by-ocean-450.jpg
 imagem: https://vibecdnv.azureedge.net/asapmovers808/shipping-containers-by-ocean-1440.jpg
@@ -19,7 +19,7 @@ Piano Moving</li><li>Storage Services</li>"
 ---      
 Where in the world is life taking you next? No matter the distance, if you’re headed off to college, changing your office backdrop, or need a new place to call home, ASAP Movers 808 is the moving company you’ve been searching for.  
 
-Based out of Hawaii, we’re ready to move you to, from, or between the islands. We specialize in long-distance moving as well as local service moving, and offer expertise in commercial moving and residential moving.   
+Based out of Hawaii and Alabama, we're ready to move you to or from anywhere in the United States. We specialize in long-distance moving as well as local service moving, and offer expertise in commercial moving and residential moving.   
 
 Our strength is in getting your belongings wherever they need to go. With ASAP Movers 808, enjoy a smooth and seamless moving experience so you can focus on life ahead.   
 
