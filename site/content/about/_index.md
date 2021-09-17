@@ -8,7 +8,7 @@ webp: https://vibecdnv.azureedge.net/asapmovers808/shipping-container-bw-1440-cr
 about:
   - heading: "Who Moves the World? Girls!"
     text: >
-      ASAP Movers 808 is a female-owned business based in Hawaii since 2020. While our small business may be the new kid on the block, we have years of moving experience and a passion for getting your belongings where they need to be.  
+      ASAP Movers 808 is a female-owned business based in Hawaii since 2020 and Alabama since 2021. While our small business may be the new kid on the block, we have years of moving experience and a passion for getting your belongings where they need to be.  
     imageUrl: "https://vibecdnv.azureedge.net/asapmovers808/woman-packing-box-700.jpg"
     webpUrl: "https://vibecdnv.azureedge.net/asapmovers808/woman-packing-box-700.webp"
   - heading: "Trust Worthy and Responsive Service"
