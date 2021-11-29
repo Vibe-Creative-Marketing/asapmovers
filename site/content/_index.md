@@ -22,10 +22,10 @@ services:
       button: Get a Quote ASAP
     - image: https://vibecdnv.azureedge.net/asapmovers808/container-truck-icon-417x417.png
       webp: https://vibecdnv.azureedge.net/asapmovers808/container-truck-icon-417x417.webp
-      heading: "Local & Mainland Moving" 
-      text: "Wherever life is taking you, ASAP Movers 808 is your relocation company. We’ll pack your belongings and ship them where they need to be so you can focus on the important things."
+      heading: "Move to Hawaii from Anywhere" 
+      text: "Make your relocation to paradise as easy as possible with ASAP Movers 808. We’re experts at moving people to the islands of Hawaii from anywhere in the country! Sit back and relax while we get you packed."
       link: "/services"
-      button: See Our Services
+      button: Learn More
     - image: https://vibecdnv.azureedge.net/asapmovers808/5-stars-icon-417x417.png
       webp: https://vibecdnv.azureedge.net/asapmovers808/5-stars-icon-417x417.webp
       heading: You’re First on Our Packing List
