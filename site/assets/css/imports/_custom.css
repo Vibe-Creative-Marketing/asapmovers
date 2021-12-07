@@ -16,3 +16,13 @@
     width: 38rem;
   }
 }
+@media (--breakpoint-large){
+  .bannerHeight-l {
+    height: 60rem;
+  }
+}
+@media (--breakpoint-medium){
+  .bannerHeight-m {
+    height: 24rem;
+  }
+}

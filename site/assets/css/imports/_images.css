@@ -1,5 +1,10 @@
 img {
   max-width: 100%;
+  height: auto;
+}
+video {
+  max-width: 100%;
+  height: auto;
 }
 
 /* Remove border-radiius from full-width images */

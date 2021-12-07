@@ -1,7 +1,10 @@
-<div class="pv5 pv6-ns ph3 bg-top bg-center-l cover mb4" 
-  style="background-image: url('{{.image}}')">
-
-  <div class="w-80 center ph3">
+<div class="mw9 center cf overflow-hidden bg-primary mb4">
+  {{ with .banner }}
+  <video autoplay muted loop class="fit-contain dib w-50-ns w-100">
+    <source src="{{ .squareWebm }}">
+  </video>
+  {{ end }}
+  <div class="w-50-ns pv5-l pa3 fl-ns">
     <div class="db mb3">
       <div class="relative tl mb3">
         

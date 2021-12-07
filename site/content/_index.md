@@ -4,9 +4,13 @@ description: "Hawaii and Alabama based moving company"
 titlelarge: "ASAP Movers 808<br>Hawaii, Alabama, & Beyond"
 titlesmall: ASAP Movers 808<br>Hawaii, Alabama, & Beyond
 subtitle: Women OWNED and Operated
-image: https://vibecdnv.azureedge.net/asapmovers808/unpacking-box-dog-1920.jpg
-imagedesc: Rossie the Riveter
-
+banner:
+  landscapeMp4: https://vibecdnv.azureedge.net/asapmovers808/16_9landscape.mp4
+  landscapeWebm: https://vibecdnv.azureedge.net/asapmovers808/16_9landscape.webm
+  portraitMp4: https://vibecdnv.azureedge.net/asapmovers808/16_9portrait.mp4
+  portraitWebm: https://vibecdnv.azureedge.net/asapmovers808/16_9portrait.webm
+  squareMp4: https://vibecdnv.azureedge.net/asapmovers808/square.mp4
+  squareWebm: https://vibecdnv.azureedge.net/asapmovers808/square.webm
 intro:
     heading: "FREE Contactless Estimates" 
     text: 
