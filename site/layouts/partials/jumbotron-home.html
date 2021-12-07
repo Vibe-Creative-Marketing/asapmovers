@@ -1,7 +1,8 @@
 <div class="mw9 center cf overflow-hidden bg-primary mb4">
   {{ with .banner }}
   <video autoplay muted loop class="fit-contain dib w-50-ns w-100">
-    <source src="{{ .squareWebm }}">
+    <source src="{{ .squareWebm }}" type="video/webm">
+    <source src="{{ .squareMp4 }}" type="video/mp4">
   </video>
   {{ end }}
   <div class="w-50-ns pv5-l pa3 fl-ns">
