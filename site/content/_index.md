@@ -15,9 +15,9 @@ intro:
     heading: "FREE Contactless Estimates" 
     text: 
 services:
-    - image: https://vibecdnv.azureedge.net/asapmovers808/rosie-the-riveter-icon-417x417.png
-      webp: https://vibecdnv.azureedge.net/asapmovers808/rosie-the-riveter-icon-417x417.webp
-      heading: Women Owned & Operated
+    - image: https://vibecdnv.azureedge.net/asapmovers808/honolulu-best.png
+      webp: https://vibecdnv.azureedge.net/asapmovers808/honolulu-best.webp
+      heading: Best Honolulu Moving Company
       text: "We can do it better than anyone! Trust in our moving company’s experience and passion to keep you and your life moving forward."
       link: "/contact"
       button: Get a Quote ASAP

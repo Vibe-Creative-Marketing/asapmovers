@@ -10,11 +10,13 @@
         {{ range .services }}
         <div class="w-33-l fl ph3-ns mt4-l height-44 flex flex-column items-center justify-between">
           <div style="justify-content: normal;">
+          <div class="flex justify-center" style="height: 300px; align-items: flex-end;">
           <picture>
             <source srcset="{{ .webp }}" type="image/webp">
-            <source srcset="{{ .image }}" type="image/webp">
-            <img src="{{.image}}" alt="{{.heading}}" class="db fit-contain mb3 mt4 mw5 pt2-l center" style="width: 300px">
+            <source srcset="{{ .image }}" type="image/png">
+            <img src="{{.image}}" alt="{{.heading}}" class="db fit-contain mb3 mt4 mw5 pt2-l center" style="width: 300px; height: auto;">
           </picture>
+          </div>
           <h3 class="f4 b pa2 mb2 tc black bg-highlight mw5 center">{{ .heading }}</h3>
           <p class="center pa3">{{.text}}</p>
           </div>
