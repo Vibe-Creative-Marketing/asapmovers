@@ -14,7 +14,7 @@ testimonials:
       Honestly, I get stressed super easily and moving was more than I could handle. I couldn't find a lot of places that would move me from Hawaii to Minnesota without it being a complete hassle but ASAP Moving took a lot of the stress out of the process. Highly recommend.
 services:
   - heading: What We Do
-list: "<li><b>Military Moves<b></li><li>Commercial Services</li><li>Furniture Moving</li><li>Large and Heavy Item Moving</li><li>Long Distance Moving</li><li>Packing, Unpacking, & Crating</li><li>Senior Moving</li><li>Furniture Assembly</li><li>International Relocations</li><li>Local Moving</li><li>Moving Container Rentals</li><li>
+list: "<li><b>Military Moves</b></li><li>Commercial Services</li><li>Furniture Moving</li><li>Large and Heavy Item Moving</li><li>Long Distance Moving</li><li>Packing, Unpacking, & Crating</li><li>Senior Moving</li><li>Furniture Assembly</li><li>International Relocations</li><li>Local Moving</li><li>Moving Container Rentals</li><li>
 Piano Moving</li><li>Storage Services</li>"
 ---      
 Where in the world is life taking you next? No matter the distance, if you’re headed off to college, changing your office backdrop, or need a new place to call home, ASAP Movers 808 is the moving company you’ve been searching for.  
