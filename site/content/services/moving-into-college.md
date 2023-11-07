@@ -1,5 +1,6 @@
 ---
 title: "Moving to or from UH"
+description: Moving to UH? ASAP Movers 808 can help you move into your dorm, or student housing.
 date: 2020-03-27
 description: ASAP Movers 808 can move you in and out of university housing.
 image: https://vibecdnv.azureedge.net/asapmovers808/college-student-unpacking-700.jpg

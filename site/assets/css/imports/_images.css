@@ -1,0 +1,13 @@
+img {
+  max-width: 100%;
+  height: auto;
+}
+video {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Remove border-radiius from full-width images */
+img:not(.w-100) {
+  border-radius: var(--border-radius);
+}

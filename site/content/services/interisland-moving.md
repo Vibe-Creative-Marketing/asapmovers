@@ -1,5 +1,6 @@
 ---
 title: "Interisland Moving"
+description: Moving inter island? We can help! ASAP Movers 808 can move your belongings between any major Hawaiian island.
 date: 2020-03-27
 description: >-
   ASAP Movers 808 can help you move interisland
